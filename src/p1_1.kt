@@ -26,6 +26,5 @@ fun main() {
     println("db= "+db)
     println("bt= "+bt)
     println("Lg= "+lg)
-
     println("z= "+z)
 }
